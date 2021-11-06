@@ -60,4 +60,3 @@ for name in names:
 print(f"total : {total} / deleted : {total-errors} / error : {errors}")
 wb.save(filename=result)
 wb.close()
-
